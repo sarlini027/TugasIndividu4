@@ -1,4 +1,4 @@
-# tugas_individu3_pam
-## Nama  : Joy Arta Br Sitinjak
-## NIM   : 120140101
-## Kelas : PAM RA
+# tugas_individu4_pam
+## Nama  : Sarlini
+## NIM   : 120140089
+## Kelas : PAM RB
